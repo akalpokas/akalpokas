@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akalpokas&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Audrius's GitHub stats](https://github-readme-stats.vercel.app/api?username=akalpokas&show_icons=true&count_private=true&theme=dracula)
